@@ -1,0 +1,9 @@
+uuid
+node-2fa
+
+
+
+email:"ada@gmail.com"
+username:"ada001"
+hash:"$2b$10$oIsDEOtvN4huS2jJ/m5HPej8F4weyt6ar2eF3F2/hKmZKs9A7glSu"
+name:"Ada Lovelece"
